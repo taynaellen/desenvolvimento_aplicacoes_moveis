@@ -16,8 +16,8 @@ Configurações
 
 
 Para rodar o projeto:
-Clonar o repositório
-Nos arquivos LoginSreen.js e RegisterScreen.js altere o await fetch de acordo com o ip de sua máquina (use o Endereço IPv4 da rede ativa)
-Dentro da pasta backend, instalar as dependências (npm install) e iniciar o servidor (node index.js)
-Em outro terminal, na pasta catalogo-filmes instale novamente as dependências (npm install) e inicie o projeto (npx expo start)
-Use o aplicativo Expo Go no celular para escanear o QR Code e rodar o app ou teste via web (digite w no terminal para abrir a página)
+- Clonar o repositório
+- Nos arquivos LoginSreen.js e RegisterScreen.js altere o await fetch de acordo com o ip de sua máquina (use o Endereço IPv4 da rede ativa)
+- Dentro da pasta backend, instalar as dependências (npm install) e iniciar o servidor (node index.js)
+- Em outro terminal, na pasta catalogo-filmes instale novamente as dependências (npm install) e inicie o projeto (npx expo start)
+- Use o aplicativo Expo Go no celular para escanear o QR Code e rodar o app ou teste via web (digite w no terminal para abrir a página)
