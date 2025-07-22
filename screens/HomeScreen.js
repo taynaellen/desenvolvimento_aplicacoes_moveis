@@ -4,7 +4,7 @@ import axios from 'axios';
 import { useNavigation } from '@react-navigation/native';
 
  //key do TMDB
-const API_KEY = '05d99440212765b344fb91a7f5f325e0';
+const API_KEY = 'api_key';
 const BASE_URL = 'https://api.themoviedb.org/3';
 
     export default function HomeScreen() {
